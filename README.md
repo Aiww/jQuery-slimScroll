@@ -7,3 +7,14 @@ Demo and more: http://rocha.la/jQuery-slimScroll
 Copyright (c) 2011 Piotr Rochala (http://rocha.la)
 Dual licensed under the MIT (http://www.opensource.org/licenses/mit-license.php) and GPL (http://www.opensource.org/licenses/gpl-license.php) licenses.
 
+编辑：
+
+jQuery slimScroll插件是一个支持把内容放在一个盒子里面，固定一个高度，超出的则使用滚动。该插件挺好的。
+
+不过不支持resize的时候重新调用插件，有一个贡献者已经修改过源码，不过作者并没有加进去。
+
+如果你有需要，可以去看看：https://github.com/kujian/jQuery-slimScroll 
+
+我已经把项目的压缩也改过来了。
+
+插件项目地址：http://rocha.la/jQuery-slimScroll ，该插件不支持IE7。
